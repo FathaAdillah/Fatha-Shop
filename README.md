@@ -18,36 +18,6 @@
 ![Screenshot_2023-12-02_05-40-47](https://github.com/gozali97/Vue-Shop/assets/58220137/2aef480e-339d-4f6e-947d-12cb63b39543)
 
 
-## Donwload
-
-Clone Projek
-
-```bash
-  git clone https://github.com/gozali97/Vue-Shop.git nama_project
-```
-
-Masuk ke folder dengan perintah
-
-```bash
-  cd nama_projek
-```
-
--   Copy .env.example menjadi .env kemudia edit database dan api key nya
-
-```bash
-    composer install
-    npm install
-```
-
-```bash
-    php artisan key:generate
-```
-
-```bash
-    php artisan artisan migrate:fresh --seed
-```
-
-
 #### Login Admin
 
 -   email = admin@gmail.com
